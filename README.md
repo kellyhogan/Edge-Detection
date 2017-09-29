@@ -3,4 +3,4 @@ This project was part of my coursework for a computer vision course taught by Da
 This program will detect the edges in an image and display the Morlet wavelets, the convolutions between the image and the wavelets, the max real/imaginary value images for the convolutions, and the edges.
 
 To run this program:
-python <filepath> <imagepath>
+python &lt;filepath&gt; &lt;imagepath&gt;
