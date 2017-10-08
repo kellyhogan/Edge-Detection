@@ -4,11 +4,11 @@ For academic integrity reasons, I will not post my code here on a public reposit
 
 This program detects the edges in an image and display the Morlet wavelets, the convolutions between the image and the wavelets, the max real/imaginary value images for the convolutions, and the edges.
 
-Original Image: 
+##Original Image: 
 ![alt text](/images/plane.png)
 
-Convolutions:
+##Convolutions:
 ![alt text](/images/convolutions.png)
 
-Edge:
+##Edge:
 ![alt text](/images/edge.png)
